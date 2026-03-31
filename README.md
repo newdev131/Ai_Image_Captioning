@@ -41,6 +41,8 @@ data = {"num_captions": 3, "style": "creative"}
 response = requests.post(url, files=files, data=data)
 print(response.json())
 
+```
+
 Technologies
 .FastAPI
 .BLIP Model (Hugging Face)
