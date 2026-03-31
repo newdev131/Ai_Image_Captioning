@@ -43,9 +43,12 @@ print(response.json())
 
 ```
 
-Technologies : 
-FastAPI,
-BLIP Model (Hugging Face),
+Technologies :
+
+FastAPI
+
+BLIP Model (Hugging Face)
+
 Docker
 
 Author :
