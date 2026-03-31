@@ -43,10 +43,10 @@ print(response.json())
 
 ```
 
-Technologies
+##Technologies
 .FastAPI
 .BLIP Model (Hugging Face)
 .Docker
 
-Author
+##Author
 Arfa Naeem | Machine Learning Project | March 2026
